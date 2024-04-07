@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EB09&random=false&width=435&lines=Hello%2C+my+name+is+Anar!" alt="Typing SVG" /></a></h1>
-<h3 align="center">верстальщик и начинающий разработчик из России 🇷🇺</h3>
+<h3 align="center">layout designer и beginner in dev from Russia 🇷🇺</h3>
 
 
 🧔 - 33 years old, was born in Moscow.
@@ -28,3 +28,6 @@ WORDPRESS, little Bitrix
 Now studying SQL
 
 Wanna work in backend, as PHP-Junior.
+
+My projects:
+
