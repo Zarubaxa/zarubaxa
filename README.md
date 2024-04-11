@@ -9,8 +9,14 @@ Now - living in Egypt, Cairo,
 studying arabic language.
 
 
-- 👨‍💻 working in <a href="truestudio.ru">Truestuio</a>
+- 👨‍💻 working remote in <a href="truestudio.ru">Truestuio</a>
 
+I speak:
+ Russian(fluent),
+ English(pre-intermediate),
+ Azerbaijani(upper-intermediate),
+ Turkish(pre-intermediate),
+ Arabic(elementary)
 
 
 Basic knowledge in:
@@ -22,12 +28,30 @@ Basic knowledge in:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EB09&random=false&width=435&lines=What+i+did%3F" alt="Typing SVG" /></a>
 
 Main work was:
- PSD -> HTML, CSS, sometimes changing in website
-WORDPRESS, little Bitrix
+ PSD -> HTML/CSS, sometimes changing in website,
+ WORDPRESS, little Bitrix, little MODX, 
+ some optimisations for sites by information from PageSpeed
 
-Now studying SQL
+Now studying SQL,
 
 Wanna work in backend, as PHP-Junior.
 
 My projects:
+1. [https://mettem.ru](https://mettem.ru/) - layout and Wordpress
+2. [https://6-dof.ru](https://6-dof.ru/) - layout and Wordpress
+3. [akademia.truestudio.ru](https://akademia.truestudio.ru/) - layout and Bitrix
+4. [конвейер.рус](https://xn--b1agapcsgv.xn--p1acf/) - migration from Joomla to Wordpress
+5. [dtod.ru](https://www.dtod.ru/) - layout - pics (https://github.com/Zarubaxa/workProjects/tree/master/dtod)
+6. kovrikiEva2020 - layout (https://github.com/Zarubaxa/workProjects/tree/master/kovrikiEva2020)
+7. https://jet-job.ru - layout
+8. [https://briko.ru](https://briko.ru/) - layout
+9. [https://www.stella-kids.ru](https://www.stella-kids.ru/) - layout
+10. [https://truestudio.ru/mosklimnew](https://truestudio.ru/mosklimnew/) - layout (https://github.com/Zarubaxa/workProjects/tree/master/mosklimnew)
+11. [https://avtokovrik-online.ru](https://avtokovrik-online.ru/) - layout
+12. [https://votprikid.ru/cases](https://votprikid.ru/cases) - layout
+13. [https://votprikid.ru/cases/pineriver](https://votprikid.ru/cases/pineriver) - layout
+14. [https://votprikid.ru/print-on-hoodie](https://votprikid.ru/print-on-hoodie) - layout
+15. [https://studiya-poshiva.ru](https://studiya-poshiva.ru/) - layout (https://github.com/Zarubaxa/workProjects/tree/master/studiya-poshiva.ru)
+16. [https://vishivka.club](https://vishivka.club/) - layout (https://github.com/Zarubaxa/workProjects/tree/master/vishivka.club)
 
+and other, but unfortunately - didnt save
