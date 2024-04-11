@@ -55,3 +55,8 @@ My projects:
 16. [https://vishivka.club](https://vishivka.club/) - layout (https://github.com/Zarubaxa/workProjects/tree/master/vishivka.club)
 
 and other, but unfortunately - didnt save
+##
+Socials:
+1. Facebook - https://www.facebook.com/muradov.anario
+2. Telegram - https://t.me/ar_mur
+3. Email - anar.arabic@gmail.com
