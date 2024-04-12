@@ -9,7 +9,7 @@ Now - living in Egypt, Cairo,
 studying arabic language.
 
 
-- 👨‍💻 working remote in <a href="truestudio.ru">Truestuio</a>
+- 👨‍💻 working remote in [Truestudio](https://truestudio.ru)
 
 I speak:
  Russian(fluent),
