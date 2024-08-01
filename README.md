@@ -58,5 +58,5 @@ and other, but unfortunately - didnt save
 ##
 Socials:
 1. Facebook - https://www.facebook.com/muradov.anario
-2. Telegram - https://t.me/ar_mur
+2. Telegram - https://t.me/arr_mu
 3. Email - anar.arabic@gmail.com
