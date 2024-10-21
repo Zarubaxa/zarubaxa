@@ -5,7 +5,6 @@
 
 🧔 - 33 years old, was born in Moscow.
 
-Now - living in Egypt, Cairo,
 studying arabic language.
 
 
