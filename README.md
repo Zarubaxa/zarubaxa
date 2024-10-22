@@ -3,7 +3,7 @@
 <h3 align="center">layout designer и beginner in dev from Russia 🇷🇺</h3>
 
 
-🧔 - 33 years old, was born in Moscow.
+🧔 - 28 years old, was born in Moscow.
 
 studying arabic language.
 
