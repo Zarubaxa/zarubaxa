@@ -31,7 +31,7 @@ Main work was:
  WORDPRESS, little Bitrix, little MODX, 
  some optimisations for sites by information from PageSpeed
 
-Now studying SQL,
+My profile on Stepik: https://stepik.org/users/69304487/profile
 
 Wanna work in backend, as PHP-Junior.
 
